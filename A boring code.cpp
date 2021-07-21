@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("My dad is my hero.\n我的父亲是我的英雄。\n");
+	printf("The sun is shining. Birds are chirping.\n阳光明媚，鸟鸣啾啾。\n");
 	printf("\n");
 	system("pause");
 	return 0;
