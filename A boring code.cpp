@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("The sun is shining. Birds are chirping.\n阳光明媚，鸟鸣啾啾。\n");
+	printf("We should never be ashamed of what we've gone through.\n往事莫悔。\n");
 	printf("\n");
 	system("pause");
 	return 0;
