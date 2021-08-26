@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("We should never be ashamed of what we've gone through.\n往事莫悔。\n");
+	printf("Honesty is your best defense and offense.\n以诚为本，进退无忧。\n\n");
 	printf("\n");
 	system("pause");
 	return 0;
