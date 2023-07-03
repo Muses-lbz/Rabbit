@@ -1,4 +1,2 @@
-# Chinese
-This respsitory will include some codes about some things of my own ideas.
-
+# Rabbit
 Welcome to your coming!
